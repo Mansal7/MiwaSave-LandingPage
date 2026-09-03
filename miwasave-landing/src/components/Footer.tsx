@@ -100,7 +100,7 @@ export default function Footer({ darkMode }: FooterProps) {
         {/* Download badge */}
         <div className="flex justify-center mb-12">
           <motion.a
-            href="https://expo.dev/accounts/nzhy77/projects/miwasave/builds/94f1c834-30fb-41e5-8d07-afb14662aa54"
+            href="https://drive.google.com/drive/folders/1b-jqAG6wsfk19aj0lZN0n4_TPVheLcqX"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}

@@ -72,7 +72,7 @@ export default function Navbar({ darkMode, setDarkMode }: NavbarProps) {
             {darkMode ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
           </button>
           <a
-            href="https://expo.dev/accounts/nzhy77/projects/miwasave/builds/94f1c834-30fb-41e5-8d07-afb14662aa54"
+            href="https://drive.google.com/drive/folders/1b-jqAG6wsfk19aj0lZN0n4_TPVheLcqX"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary text-white font-semibold text-sm px-5 py-2.5 rounded-full shadow-soft"
@@ -123,7 +123,7 @@ export default function Navbar({ darkMode, setDarkMode }: NavbarProps) {
                 </a>
               ))}
               <a
-                href="https://expo.dev/accounts/nzhy77/projects/miwasave/builds/94f1c834-30fb-41e5-8d07-afb14662aa54"
+                href="https://drive.google.com/drive/folders/1b-jqAG6wsfk19aj0lZN0n4_TPVheLcqX"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary text-white font-semibold text-sm px-5 py-3 rounded-2xl text-center mt-2"
